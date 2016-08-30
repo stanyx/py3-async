@@ -1,0 +1,47 @@
+start downloading 45 files, workers = 100
+load chapter => name=Table of Contents                       , url=contents/TOC.html
+load chapter => name=Acknowledgements                        , url=contents/acknowledgements.html
+load chapter => name=Notation                                , url=contents/notation.html
+load chapter => name=1 Introduction                          , url=contents/intro.html
+load chapter => name=Part I: Applied Math and Machine Learning Basics, url=contents/part_basics.html
+load chapter => name=2 Linear Algebra                        , url=contents/linear_algebra.html
+load chapter => name=3 Probability and Information Theory    , url=contents/prob.html
+load chapter => name=4 Numerical Computation                 , url=contents/numerical.html
+load chapter => name=5 Machine Learning Basics               , url=contents/ml.html
+load chapter => name=Part II: Modern Practical Deep Networks , url=contents/part_practical.html
+load chapter => name=6 Deep Feedforward Networks             , url=contents/mlp.html
+load chapter => name=7 Regularization for Deep Learning      , url=contents/regularization.html
+load chapter => name=8 Optimization for Training Deep Models , url=contents/optimization.html
+load chapter => name=9 Convolutional Networks                , url=contents/convnets.html
+load chapter => name=10 Sequence Modeling: Recurrent and Recursive Nets, url=contents/rnn.html
+load chapter => name=11 Practical Methodology                , url=contents/guidelines.html
+load chapter => name=12 Applications                         , url=contents/applications.html
+load chapter => name=Part III: Deep Learning Research        , url=contents/part_research.html
+load chapter => name=13 Linear Factor Models                 , url=contents/linear_factors.html
+load chapter => name=14 Autoencoders                         , url=contents/autoencoders.html
+load chapter => name=15 Representation Learning              , url=contents/representation.html
+load chapter => name=16 Structured Probabilistic Models for Deep Learning, url=contents/graphical_models.html
+load chapter => name=17 Monte Carlo Methods                  , url=contents/monte_carlo.html
+load chapter => name=18 Confronting the Partition Function   , url=contents/partition.html
+load chapter => name=19 Approximate Inference                , url=contents/inference.html
+load chapter => name=20 Deep Generative Models               , url=contents/generative_models.html
+load chapter => name=2 Linear Algebra                        , url=contents/linear_algebra.html
+load chapter => name=3 Probability and Information Theory    , url=contents/prob.html
+load chapter => name=4 Numerical Computation                 , url=contents/numerical.html
+load chapter => name=5 Machine Learning Basics               , url=contents/ml.html
+load chapter => name=6 Deep Feedforward Networks             , url=contents/mlp.html
+load chapter => name=7 Regularization for Deep Learning      , url=contents/regularization.html
+load chapter => name=8 Optimization for Training Deep Models , url=contents/optimization.html
+load chapter => name=9 Convolutional Networks                , url=contents/convnets.html
+load chapter => name=10 Sequence Modeling: Recurrent and Recursive Nets, url=contents/rnn.html
+load chapter => name=11 Practical Methodology                , url=contents/guidelines.html
+load chapter => name=12 Applications                         , url=contents/applications.html
+load chapter => name=13 Linear Factor Models                 , url=contents/linear_factors.html
+load chapter => name=14 Autoencoders                         , url=contents/autoencoders.html
+load chapter => name=15 Representation Learning              , url=contents/representation.html
+load chapter => name=16 Structured Probabilistic Models for Deep Learning, url=contents/graphical_models.html
+load chapter => name=17 Monte Carlo Methods                  , url=contents/monte_carlo.html
+load chapter => name=18 Confronting the Partition Function   , url=contents/partition.html
+load chapter => name=19 Approximate Inference                , url=contents/inference.html
+load chapter => name=20 Deep Generative Models               , url=contents/generative_models.html
+success -> time consumed = 23 seconds
